@@ -105,11 +105,12 @@ require_once 'markdownProcessor.php';
     <div class="container intro">
         <div class="row margin-bottom-50">
             <div class="col-md-12 text-center">
-                <h1 class="title-section"><span class="title-regular"><strong>Grand Gala</strong> de la
-							MIAGE</span><br />6 juillet 2019</h1>
+                <h1 class="title-section">
+                    <span class="title-regular">
+                        <strong>MIAGE+</strong>
+                    </span><br>Et tellement + encore</h1>
                 <hr class="title-underline-center">
-                <p class="lead">Le traditionnel gala de la MIAGE, tant attendu,
-                    <br />aura de nouveau lieu cette année.
+                <p class="lead">Since 1985
                 </p>
             </div>
         </div>
@@ -117,35 +118,38 @@ require_once 'markdownProcessor.php';
             <div>
                 <div class="col-md-3 col-sm-6">
                     <div>
-                        <i class="fa fa-desktop"></i>
-                        <label><strong>20h</strong>
-                            <br />Ouverture</label>
-                        <p>La c&eacute;r&eacute;monie commencera sur les coups de 20h, par un ap&eacute;ro !</p>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6">
-                    <div>
-                        <i class="fa fa-user"></i>
-                        <label><strong>2543</strong>
-                            <br />Participants</label>
-                        <p>Joignez vous à eux, pour profiter de cet événement réputé par dela nos fronti&egrave;res !
+                        <i class="fa fa-bookmark"></i>
+                        <label><strong>3</strong>
+                            <br>Week-end dans l'années</label>
+                        <p>
+                            Durant l'ann&eacute;e, nous nous retrouverons le week-end d'int&eacute;gration,
+                            le wee-end ski mais aussi celui plage d&eacute;tente
                         </p>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6">
                     <div>
-                        <i class="fa fa-code"></i>
-                        <label><strong>14489</strong>
-                            <br />Placeholder</label>
-                        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore</p>
+                        <i class="fa fa-user"></i>
+                        <label><strong>100 % </strong>
+                            <br>Pourcentage de fun et de bonne ambiance</label>
+                        <p>Joignez vous &agrave; eux, pour profiter de cet &eacute;v&eacute;nement r&eacute;put&eacute; par dela nos fronti&egrave;res !
+                        </p>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6">
                     <div>
                         <i class="fa fa-trophy"></i>
+                        <label><strong>1985</strong>
+                            <br>Naissance de l'association</label>
+                        <p>L&rsquo;association a été constituée en 1985 et existe encore actuellement</p>
+                    </div>
+                </div>
+                <div class="col-md-3 col-sm-6">
+                    <div>
+                        <i class="fa fa-cube"></i>
                         <label><strong>1</strong>
-                            <br />Reine du bal</label>
-                        <p>Choisissez sagement, elle aura pour mission de vous repr&eacute;senter tout au long de l'ann&eacute;e
+                            <br>Tu peux rater un &eacute;v&eacute;nement mais pas 15</label>
+                        <p> Mais bon, on peut comprendre que tu en rates un peu plus
                         </p>
                     </div>
                 </div>
@@ -162,42 +166,59 @@ require_once 'markdownProcessor.php';
             <div class="col-md-8 col-md-push-4 ">
                 <div class="col-md-12 margin-bottom-30">
                     <h2 class="title-section main-background"><span
-                                class="title-regular main">L'ASSOCIATION</span><br />MIAGE+</h2>
+                                class="title-regular main">L'ASSOCIATION</span><br>MIAGE+</h2>
                     <hr class="title-underline" />
                 </div>
                 <div class="row margin-bottom-30">
                     <div class="col-md-6">
                         <div class="col-xs-10">
-                            <h3>Experience</h3>
+                            <h3>Objectif</h3>
                         </div>
                         <div class="col-md-12">
-                            <p class="main-background justified">Depuis plus de 10 ans... In nec elit solliudin, elementum, dictum pur quam volutpat suscipit antena.</p>
+                            <p class="main-background justified">
+                                Créée en 1985 sous le nom de MIAGE+ dans le but de favoriser l’accueil et animer la vie
+                                étudiante au sein de la formation MIAGE d’Aix-Marseille.
+                            </p>
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="col-xs-10">
-                            <h3>Savoir-faire</h3>
+                            <h3>Nos actions</h3>
                         </div>
                         <div class="col-md-12">
-                            <p class="main-background justified">Des &eacute;tudiants engag&eacute;s... solliudin, elementum, dictum pur quam volutpat suscipit antena.</p>
+                            <p class="main-background justified">
+                                Nous proposons tout au long de l'année des événements festifs (Halloween, gala),
+                                sportifs (foot, badminton, handball), gaming (rétrogaming, tournois esport), mais aussi
+                                des weekend de cohésion tout au long de l'année (WEI, WES, WEPD). Nous proposons aussi des
+                                formations secourisme PSC1 et tellement plus encore !
+                            </p>
                         </div>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-md-6">
                         <div class="col-xs-10">
-                            <h3>Vari&eacute;t&eacute;</h3>
+                            <h3>Nos motivations</h3>
                         </div>
                         <div class="col-md-12">
-                            <p class="main-background justified">Plusieurs langages maitris&eacute;s... solliudin, elementum, dictum pur quam volutpat suscipit antena.</p>
+                            <p class="main-background justified">
+                                Nous sommes des étudiants engagés avant tout pour partager de la bonne humeur et de la joie autour
+                                de nous pendants nos années universitaires. La sécurité de chaque membre et de chaque étudiant est
+                                notre principale occupation pour que tous puisse s'amuser.
+                            </p>
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="col-xs-10">
-                            <h3>Rapidit&eacute;</h3>
+                            <h3>Tes besoins</h3>
                         </div>
                         <div class="col-md-12">
-                            <p class="main-background justified">Demandez aux clients... In nec elit solliudin, elementum, dictum pur quam volutpat suscipit antena.</p>
+                            <p class="main-background justified">
+                                Tu as une question? Une hésitation ? Envoie nous un message via notre page facebook
+                                ou par mail à l'adresse suivante : <a href="mailto:miageplus@gmail.com " style="color: white">miageplus@gmail.com</a> on te
+                                répondra dans les minutes qui suivent ;)  Mais tu peux aussi venir nous voir directement entre les cours ou aux réunions,
+                                tu seras toujours le bienvenu !
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -214,7 +235,7 @@ require_once 'markdownProcessor.php';
     <div class="container">
         <!-- Title -->
         <div class="col-md-12">
-            <h2 class="title-section"><span class="title-regular main">LES MEMBRES</span><br />DU BUREAU</h2>
+            <h2 class="title-section"><span class="title-regular main">LES MEMBRES</span><br>DU BUREAU</h2>
             <hr class="title-underline" />
         </div>
     </div>
@@ -225,10 +246,14 @@ require_once 'markdownProcessor.php';
                 <div class="row">
                     <div class="col-md-12">
                         <div class="col-xs-10">
-                            <h2>Paul DUBOIS</h2>
+                            <h2>Sébastien ROSPARS</h2>
                         </div>
                         <div class="col-md-12">
-                            <h3>Tr&eacute;sorier</h3>
+                            <h3>Pr&eacute;sident</h3> <br>
+                            Étudiant en M2 à Marseille <br>
+                            Surfeur de la Méditerranée émérite <br>
+                            Toujours présent pour inventer de nouveaux jeux
+
                         </div>
                     </div>
                 </div>
@@ -240,10 +265,13 @@ require_once 'markdownProcessor.php';
                 <div class="row">
                     <div class="col-md-12">
                         <div class="col-xs-10">
-                            <h2>Marc DUBOIS</h2>
+                            <h2>Léanna CONTRERAS</h2>
                         </div>
                         <div class="col-md-12">
-                            <h3>Pr&eacute;sident</h3>
+                            <h3>Trésorière</h3> <br>
+                            Étudiante en M2 à Marseille <br>
+                            Élève modèle le jour et danseuse hors pair le soir <br>
+                            Toujours à l'écoute, n'hésite pas à la contacter pour une question financière
                         </div>
                     </div>
                 </div>
@@ -257,10 +285,14 @@ require_once 'markdownProcessor.php';
                 <div class="row">
                     <div class="col-md-12">
                         <div class="col-xs-10">
-                            <h2>Camille HENRY</h2>
+                            <h2>Valentin BARRET</h2>
                         </div>
                         <div class="col-md-12">
-                            <h3>Organisatrice</h3>
+                            <h3>Secrétaire</h3> <br>
+                            Etudiant en M2 à Marseille <br>
+                            Grand fou du volant entre Aix et St Trop' <br>
+                            Grand Gestionnaire de la mailing et Calendrier vivant de l'asso
+
                         </div>
                     </div>
                 </div>
@@ -272,16 +304,106 @@ require_once 'markdownProcessor.php';
                 <div class="row">
                     <div class="col-md-12">
                         <div class="col-xs-10">
-                            <h2>St&eacute;phanie PAUL</h2>
+                            <h2>Aymerick AUPART</h2>
                         </div>
                         <div class="col-md-12">
-                            <h3>Figurante</h3>
+                            <h3>Vice-Pr&eacute;sident</h3> <br>
+                            <strong>TODO</strong>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="col-md-2 col-md-pull-4">
                 <img class="img-responsive" src="https://loremflickr.com/240/320/women" alt="" />
+            </div>
+        </div>
+        <div class="col-md-12 padding-30">
+            <div class="col-md-4 col-md-push-2">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="col-xs-10">
+                            <h2>Théo MEDORI</h2>
+                        </div>
+                        <div class="col-md-12">
+                            <h3>Vice-Président</h3> <br>
+                            <strong>TODO</strong>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2 col-md-pull-4">
+                <img class="img-responsive" src="https://loremflickr.com/240/320/girl" alt="" />
+            </div>
+            <div class="col-md-4 col-md-push-2">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="col-xs-10">
+                            <h2>Bastien MARCELLI</h2>
+                        </div>
+                        <div class="col-md-12">
+                            <h3>Trésorier</h3> <br>
+                            <strong>TODO</strong>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2 col-md-pull-4">
+                <img class="img-responsive" src="https://loremflickr.com/240/320/women" alt="" />
+            </div>
+        </div>
+        <div class="col-md-12 padding-30">
+            <div class="col-md-4 col-md-push-2">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="col-xs-10">
+                            <h2>Alice DELBOSC</h2>
+                        </div>
+                        <div class="col-md-12">
+                            <h3>Vice-Secrétaire</h3> <br>
+                            <strong>TODO</strong>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2 col-md-pull-4">
+                <img class="img-responsive" src="https://loremflickr.com/240/320/girl" alt="" />
+            </div>
+            <div class="col-md-4 col-md-push-2">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="col-xs-10">
+                            <h2>Pôle Communication</h2>
+                        </div>
+                        <div class="col-md-12">
+                            <h3>Responsable : Chloé REMACLE</h3> <br>
+                            Spammeuse insatiable, graphiste 5.1 <br>
+                            Toujours surmotivée, gestionnaire des dossiers photo et vidéo
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2 col-md-pull-4">
+                <img class="img-responsive" src="https://loremflickr.com/240/320/women" alt="" />
+            </div>
+        </div>
+        <div class="col-md-12 padding-30">
+            <div class="col-md-4 col-md-push-2">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="col-xs-10">
+                            <h2>Pôle Sports</h2>
+                        </div>
+                        <div class="col-md-12">
+                            <h3>Responsable : Samuel ENTEZAM</h3> <br>
+                            Étudiant en M2 à Marseille, et champion hors catégorie pour l'orga d'événements sportifs et ludiques, <br>
+                            il vous attends de pieds ferme avec votre âme de compétiteur. <br>
+                            Alors, à fond la forme avec MIAGE+ Sports
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2 col-md-pull-4">
+                <img class="img-responsive" src="https://loremflickr.com/240/320/girl" alt="" />
             </div>
         </div>
     </div>
@@ -294,19 +416,13 @@ require_once 'markdownProcessor.php';
             <div class="col-md-12">
                 <div class="col-md-12">
                     <h2 class="title-section main-background"><span class="title-regular main">PLANNING
-								DES</span><br />EVENEMENTS A VENIR</h2>
+								DES</span><br>EVENEMENTS À VENIR</h2>
                     <hr class="title-underline" />
                 </div>
                 <div class="col-md-12 padding-30">
-                    <div class="col-md-12 padding-30">
-                        <div class="col-md-12">
-                            <h2 class="main-background">24 Décembre</h2>
-                            <p class="main-background">Repas de Noël</p>
-                        </div>
-                    </div>
                     <div class="col-md-12">
-                        <h2 class="main-background">31 Décembre</h2>
-                        <p class="main-background">Soir&eacute;e du nouvel an</p>
+                        <h2 class="main-background">Week-end d'intégration : Olympic Edition</h2>
+                        <p class="main-background">27 au 29 Septembre</p>
                     </div>
                 </div>
             </div>
@@ -320,7 +436,7 @@ require_once 'markdownProcessor.php';
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <h2 class="title-section"><span class="title-regular">NOS</span><br />ACTUALITES</h2>
+                <h2 class="title-section"><span class="title-regular">NOS</span><br>ACTUALITES</h2>
                 <hr class="title-underline" />
             </div>
         </div>
@@ -367,7 +483,7 @@ $photos = glob('photos/*');
         <div class="container">
             <div class="row">
                 <div class="col-sm-6 col-xs-6">
-                    <h2 class="title-section main-background"><span class="title-regular">NOS</span><br />PHOTOS
+                    <h2 class="title-section main-background"><span class="title-regular">NOS</span><br>PHOTOS
                     </h2>
                     <hr class="title-underline" />
                 </div>
@@ -402,7 +518,7 @@ $photos = glob('photos/*');
                 <div class="container">
                     <div class="row ">
                         <div class="col-md-12 contact-container">
-                            <h2 class="title-section"><span class="title-regular">NOUS</span><br />CONTACTER</h2>
+                            <h2 class="title-section"><span class="title-regular">NOUS</span><br>CONTACTER</h2>
                             <hr class="title-underline" />
                             <p id="result_mail">Maecenas luctus nisi in sem fermentum blat. In nec elit solliudin, elementum, dictum pur quam volutpat suscipit antena.</p>
                             <form name="form_mail" id="form_mail" action="send_mail.php" method="POST">
@@ -442,12 +558,12 @@ $photos = glob('photos/*');
                 </div>
                 <div>
                     <address class="margin-bottom-30">
-                        <p>Adresse<br />Postale</p>
+                        <p>Adresse<br>Postale</p>
                     </address>
                 </div>
                 <div class="margin-bottom-30">
                     <a href="https://www.site.web">www.site.web</a>
-                    <br />
+                    <br>
                     <a href="mailto:president@miage-plus.fr">president@miage-plus.fr</a>
                 </div>
                 <div>
